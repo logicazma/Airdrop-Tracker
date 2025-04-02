@@ -19,6 +19,14 @@ Repositori untuk melacak dan mengorganisir partisipasi dalam project airdrop cry
 | | | | | | | |
 
 
+## 📊 Analisis ROI
+
+| Bulan | Project Selesai | Total Reward (USD) |
+|-------|-----------------|---------------------|
+| Jan 2025 | 3 | $X |
+| Feb 2025 | 5 | $X |
+| Mar 2025 | 2 | $X |
+
 ## 🛠️ Alat Berguna
 
 - [Wallet management tools]
@@ -32,11 +40,3 @@ Repositori untuk melacak dan mengorganisir partisipasi dalam project airdrop cry
 - Selalu verifikasi URL project sebelum terhubung
 - Berhati-hati dengan scam yang menyamar sebagai airdrop asli
 - Gunakan hardware wallet untuk keamanan ekstra jika memungkinkan
-
-## 📊 Analisis ROI
-
-| Bulan | Project Selesai | Total Reward (USD) |
-|-------|-----------------|---------------------|
-| Jan 2025 | 3 | $X |
-| Feb 2025 | 5 | $X |
-| Mar 2025 | 2 | $X |
