@@ -75,8 +75,8 @@ Repositori untuk melacak dan mengorganisir partisipasi dalam project airdrop cry
 
 ## 📊 Analisis ROI
 
-| Bulan | Project Selesai | Total Reward (USD) | Waktu Dihabiskan | ROI ($/Jam) |
-|-------|-----------------|---------------------|------------------|-------------|
-| Jan 2025 | 3 | $X | Y jam | $Z |
-| Feb 2025 | 5 | $X | Y jam | $Z |
-| Mar 2025 | 2 | $X | Y jam | $Z |
+| Bulan | Project Selesai | Total Reward (USD) |
+|-------|-----------------|---------------------|
+| Jan 2025 | 3 | $X |
+| Feb 2025 | 5 | $X |
+| Mar 2025 | 2 | $X |
